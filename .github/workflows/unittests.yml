@@ -3,7 +3,7 @@ name: Unittests CI/CD
 on:
   push:
     branches:
-      - dashboard-master
+      - master
 
 jobs:
   build:
