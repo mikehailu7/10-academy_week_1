@@ -2,7 +2,7 @@
 
 ## WEEK 1 challenge
 
-## Answer for Task One and Task Two    
+## Answer for Task 1, Task 2, Task 3, Task 4
 
 # To run this app make sure you install
 
